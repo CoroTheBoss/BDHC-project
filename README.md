@@ -1,3 +1,3 @@
 # BDHC-project
-project for Big Data in Health Care
+Big Data in Health Care project
 + Matteo Corona - Andrea Lucini Paioni - Lorenzo Lecce
